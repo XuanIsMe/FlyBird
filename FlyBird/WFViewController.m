@@ -24,6 +24,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    //hello
     self.view.backgroundColor = [UIColor colorWithRed:0.44f green:0.63f blue:0.96f alpha:1.00f];
     _wallArray = [[NSMutableArray alloc] init];
     [self uiConfig];
