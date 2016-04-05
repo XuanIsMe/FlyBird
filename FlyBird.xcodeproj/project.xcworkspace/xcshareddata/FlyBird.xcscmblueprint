@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "874CE9977A9B7B4B12EB3127A856F08AEA3190C4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "07650C42F3C311EAEF963FFC6FE573B3550B2540" : 0,
+    "874CE9977A9B7B4B12EB3127A856F08AEA3190C4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D75AF417-C7E2-405F-B37C-1334369C5418",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "07650C42F3C311EAEF963FFC6FE573B3550B2540" : "",
+    "874CE9977A9B7B4B12EB3127A856F08AEA3190C4" : "FlyBird\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FlyBird",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FlyBird.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/XuanIsMe\/GitHub.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "07650C42F3C311EAEF963FFC6FE573B3550B2540"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/XuanIsMe\/FlyBird.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "874CE9977A9B7B4B12EB3127A856F08AEA3190C4"
+    }
+  ]
+}
